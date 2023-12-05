@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "To me, life is all about overcoming problems and taking on new challenges!.I hope to make a significant contribution to technological advancements in the future. ",
   github: "https://github.com/Harsh-Panwar22062001",
-  resume:
-    "https://drive.google.com/file/d/1ODKLfvsW3GtTwFjuq5HT01kehj1C2qvt/view",
+  resume:"https://drive.google.com/file/d/1ODKLfvsW3GtTwFjuq5HT01kehj1C2qvt/view",
   linkedin: "https://www.linkedin.com/in/harsh-panwar-55a3b4227/",
   twitter: "https://x.com/Harsh_Kuma_r?t=NVeGGCBhdCfyxDhkdc1YOQ&s=09",
   
@@ -82,6 +81,10 @@ export const skills = [
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
+      {
+        name: "Dot Net Core",
+        image: "https://www.itedge.in/images/blog/dotnet.jpg",
       },
     ],
   },
@@ -293,7 +296,7 @@ export const projects = [
     title: "Text Magic Fun",
     
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Developed a real-time application used for Text Editing that includes features like, Small-Case Letter to Upper- Case Letter, Uppercase Letter to Small-Case Letter, Remove Extra Spaces, Copy Text.This site has Preview feature, Words and Character Counter Feature, Calculating Reading Time Feature",
     image:
       "https://i.postimg.cc/dV68KC05/Screenshot-2023-12-05-021407.png",
     tags: [
